@@ -38,5 +38,13 @@ public class Automation101A : HooksPage
        
 
     }
+    [Test]
+    public void POMBasics()
+    {
+        //Git respitory -Code or project is stored - Code
+        //Different types -1. Git 2.Azure Devops 3. Jenkins 4. Sauce Lab 5. Git Lab
+
+    }
 }
+
 
